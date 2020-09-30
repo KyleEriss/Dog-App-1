@@ -34,3 +34,13 @@ input[type=submit] {
     display: none;
 }
 
+img {
+    margin: auto;
+    width: 300px;
+    max-width: 300px;
+    max-height: 300px;
+  }
+
+ul {
+    list-style: none;
+}
